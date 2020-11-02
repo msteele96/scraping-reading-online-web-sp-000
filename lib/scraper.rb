@@ -12,7 +12,7 @@ courses = doc.css(".gridContainer-EnvccM")
 #   puts course.text.strip
 # end
 
-puts courses.test
+puts courses.text
 
 
 # .title-oE5vT4
