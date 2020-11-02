@@ -11,8 +11,3 @@ courses = doc.css(".gridContainer-EnvccM")
 courses.each do |course|
   puts course.text.strip
 end
-
-# puts courses.text.strip
-#
-#
-# # .title-oE5vT4
