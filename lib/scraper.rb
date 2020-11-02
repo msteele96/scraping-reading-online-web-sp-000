@@ -8,10 +8,11 @@ doc.css(".headline-26OIBN").text
 
 courses = doc.css(".gridContainer-EnvccM")
 
-courses.each do |course|
-  puts course.text.strip
-end
+# courses.each do |course|
+#   puts course.text.strip
+# end
 
+puts courses
 
 
 # .title-oE5vT4
