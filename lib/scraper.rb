@@ -13,6 +13,6 @@ courses.each do |course|
 end
 
 # puts courses.text.strip
-# 
-# 
+#
+#
 # # .title-oE5vT4
